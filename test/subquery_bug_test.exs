@@ -1,0 +1,2 @@
+defmodule SubqueryBugTest do
+end
